@@ -201,9 +201,13 @@ Update or create composer.json.
 ``` json
 {
     "require": {
-        "kzykhys/parallel": "dev-master"
+        "tiagobutzke/phparallel": "dev-master"
     }
 }
+```
+Or use shell
+```
+composer.phar requireme tiagobutzke/phparallel 
 ```
 
 License
