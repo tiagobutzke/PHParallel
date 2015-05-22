@@ -207,7 +207,7 @@ Update or create composer.json.
 ```
 Or use shell
 ```
-composer.phar requireme tiagobutzke/phparallel 
+composer require tiagobutzke/phparallel 
 ```
 
 License
